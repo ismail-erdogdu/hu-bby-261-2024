@@ -1,0 +1,103 @@
+Genel Sağlık Durumu
+Hastalık
+Semptom
+Tanı
+Tedavi
+İlaç
+İlaç Dozu
+Sağlık Durumu
+Kronik Hastalık
+Akut Durum
+Sağlık Takibi
+Vücut ve Organlar
+Kalp
+Beyin
+Karaciğer
+Böbrek
+Akciğer
+Sindirim Sistemi
+Sinir Sistemi
+Kas Sistemi
+Endokrin Sistem
+Solunum Sistemi
+Fiziksel Durum ve Ölçümler
+Boy
+Kilo
+Beden Kitle İndeksi (BMI)
+Nabız
+Kan Basıncı
+Vücut Sıcaklığı
+Oksijen Doygunluğu
+Solunum Hızı
+Kan Şekeri
+Yaşam Tarzı ve Davranışlar
+Diyet
+Egzersiz
+Uyku
+Sigara Kullanımı
+Alkol Tüketimi
+Stres
+Zihinsel Sağlık
+Psikolojik Durum
+Ağırsızlık
+Bağımlılık
+Genetik ve Aile Geçmişi
+Genetik Hastalıklar
+Ailedeki Hastalık Geçmişi
+Doğumsal Anomaliler
+Genetik Testler
+DNA
+Sağlık Sigortası ve Erişim
+Sigorta Kapsamı
+Sigorta Türü
+Erişim Sağlık Hizmetleri
+Sağlık Tesisleri
+Hekim Ziyareti
+Klinik
+Tedavi ve Medikal Prosedürler
+Ameliyat
+İlaç Tedavisi
+Fiziksel Terapi
+Psikoterapi
+Rehabilitasyon
+Acil Müdahale
+Anestezi
+Epidemiyolojik Terimler
+Salgın
+Enfeksiyon
+Virüs
+Bakteri
+Pandemi
+Aşı
+Bağışıklık
+Hastalık Oranı
+Prevalans
+Morbidite
+Mortalite
+Laboratuvar ve Test Sonuçları
+Kan Testi
+İdrar Testi
+Röntgen
+MR (Manyetik Rezonans)
+BT (Bilgisayarlı Tomografi)
+Ultrason
+Genetik Test
+Kan Gazı Analizi
+Kolesterol
+İleri Yaş ve Yaşlanma
+Yaşlılık
+Yaşlanma
+Demans
+Alzheimer
+Osteoporoz
+Mobilite
+Düşme Riski
+Geriatri
+Sağlık Politikası ve Yönetimi
+Sağlık Politikaları
+Kamu Sağlığı
+Erişim Eşitsizliği
+Sağlık Reformu
+Sağlık Endüstrisi
+Sağlık Harcamaları
+Sağlık Eğitim

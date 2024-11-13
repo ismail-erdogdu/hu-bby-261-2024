@@ -1,0 +1,223 @@
+1. Teknoloji Kategorileri
+Yapay Zeka (AI)
+Makine Öğrenimi (ML)
+Derin Öğrenme
+Veri Bilimi
+Robotik
+Nesnelerin İnterneti (IoT)
+Blockchain
+5G Teknolojisi
+Bulut Bilişim
+Big Data
+Ağ Teknolojileri
+Siber Güvenlik
+Sanal Gerçeklik (VR)
+Artırılmış Gerçeklik (AR)
+Biyoteknoloji
+Genetik Mühendislik
+Elektronik
+Yazılım Geliştirme
+Dijital Dönüşüm
+Quantum Hesaplama
+2. Cihazlar ve Donanımlar
+Akıllı Telefonlar
+Bilgisayar
+Dizüstü Bilgisayarlar
+Tabletler
+Akıllı Saatler
+Giyilebilir Teknoloji
+VR Başlıkları
+Drone
+Akıllı Ev Cihazları
+Akıllı TV
+Yazıcılar
+Yüksek Çözünürlüklü Kameralar
+3D Yazıcılar
+Oyun Konsolları
+Elektrikli Araçlar (EV)
+Elektrikli Scooter
+Akıllı Termostatlar
+Robotlar
+3. Yazılım ve Uygulamalar
+İşletim Sistemleri
+Windows
+macOS
+Linux
+Android
+iOS
+Uygulama Yazılımları
+Ofis Yazılımları (Word, Excel, PowerPoint)
+E-posta Uygulamaları
+Sosyal Medya Uygulamaları
+Mesajlaşma Uygulamaları
+Fotoğraf ve Video Düzenleme Yazılımları
+Oyun Yazılımları
+Veritabanı Yönetimi
+SQL
+NoSQL
+MongoDB
+MySQL
+PostgreSQL
+Web Teknolojileri
+HTML/CSS
+JavaScript
+Python
+Ruby
+PHP
+React
+Angular
+Node.js
+Bulut Hizmetleri
+AWS (Amazon Web Services)
+Google Cloud
+Microsoft Azure
+Web Tarayıcıları
+Google Chrome
+Firefox
+Safari
+Microsoft Edge
+Video Konferans Uygulamaları
+Zoom
+Microsoft Teams
+Google Meet
+E-ticaret Yazılımları
+Shopify
+WooCommerce
+Magento
+Amazon
+İşletme Yazılımları
+ERP (Enterprise Resource Planning)
+CRM (Customer Relationship Management)
+SaaS (Software as a Service)
+4. Teknolojik Sistemler ve Altyapılar
+Veri Merkezi
+Sunucular
+Veri Depolama
+Bulut Bilişim Altyapısı
+Ağ Altyapıları
+VPN (Virtual Private Network)
+SD-WAN (Software-Defined Wide Area Network)
+5G Altyapısı
+Fiber Optik İnternet
+Yüksek Hızlı İnternet
+5. Yapay Zeka ve Makine Öğrenimi
+Doğal Dil İşleme (NLP)
+Görüntü Tanıma
+Ses Tanıma
+Yapay Sinir Ağları
+Genetik Algoritmalar
+Tahmin Modelleri
+Denetimli Öğrenme
+Denetimsiz Öğrenme
+Pekiştirmeli Öğrenme
+Otomatik Veri Analizi
+Chatbotlar
+AI Uygulamaları
+Akıllı Asistanlar (Siri, Alexa)
+Otonom Araçlar
+Yüz Tanıma
+Sesli Komutlar
+6. Ağ Teknolojileri ve İletişim
+TCP/IP
+HTTP/HTTPS
+DNS (Domain Name System)
+IPv4 ve IPv6
+Wi-Fi
+Bluetooth
+4G/5G
+LTE (Long-Term Evolution)
+IoT Ağları
+LTE-M (Low Power Wide Area)
+Zigbee
+7. Siber Güvenlik
+Şifreleme
+Kimlik Doğrulama
+Güvenlik Duvarı
+Anti-Virüs Yazılımları
+Malware (Zararlı Yazılımlar)
+Phishing
+DDoS (Distributed Denial of Service)
+Penetrasyon Testi
+Sızma Testi
+Veri İhlali
+Güvenlik Politikaları
+Cryptojacking
+8. Blockchain ve Kripto Para
+Bitcoin
+Ethereum
+Litecoin
+Akıllı Sözleşmeler
+Kripto Para Borsası
+Cüzdanlar
+DeFi (Decentralized Finance)
+NFT (Non-Fungible Token)
+Blockchain Protokoller
+Proof of Work
+Proof of Stake
+ICO (Initial Coin Offering)
+DAO (Decentralized Autonomous Organization)
+9. Veri Bilimi ve Analitik
+Veri Madenciliği
+Veri Temizleme
+Veri Görselleştirme
+Python (Pandas, NumPy)
+R Programlama
+İstatistiksel Analiz
+Makine Öğrenimi Algoritmaları
+Kümelenme
+Regresyon Modelleri
+Zaman Serisi Analizi
+A/B Testleri
+Karar Ağaçları
+Derin Öğrenme
+10. Endüstriyel Teknolojiler
+Otomasyon
+Endüstriyel IoT
+Akıllı Fabrikalar
+Robotik Proses Otomasyonu (RPA)
+Üretim Teknolojileri
+3D Baskı (Additive Manufacturing)
+Otonom Robotlar
+CNC (Computer Numerical Control)
+Dronelar
+11. Teknolojik Trendler
+Akıllı Ev Teknolojileri
+Otonom Araçlar
+Elektrikli Araçlar
+Giyilebilir Teknolojiler
+Biometrik Kimlik Doğrulama
+3D Yazıcılar
+Dijital İkizler
+Endüstri 4.0
+Sürdürülebilir Teknolojiler
+Teknolojik Gelişim ve İnovasyon
+Teknoloji ve Eğitim (EdTech)
+Sağlık Teknolojileri (HealthTech)
+12. Eğitim ve Teknoloji
+Uzaktan Eğitim
+E-Öğrenme
+Eğitim Yazılımları
+Eğitim Uygulamaları
+Öğrenme Yönetim Sistemleri (LMS)
+Eğitimde Yapay Zeka
+Eğitimde Oyunlaştırma
+STEM (Science, Technology, Engineering, Math) Eğitim
+13. Teknoloji ve Toplum
+Dijital Bölünme
+Veri Gizliliği
+Dijital Etik
+Sosyal Medya
+Dijital Bağımlılık
+Dijital Haklar
+E-Devlet
+Dijital Kimlik
+Toplumda Teknoloji Etkisi
+14. Yenilikçi Teknolojiler
+Quantum Bilgisayarlar
+Yapay Zeka Etiği
+Bioteknoloji
+Genetik Düzenleme (CRISPR)
+Holografik Teknolojiler
+Akıllı Şehirler
+Otonom Robotlar
+İnsan-Makine Etkileşimi

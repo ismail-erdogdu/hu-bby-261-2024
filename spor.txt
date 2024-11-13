@@ -1,0 +1,190 @@
+1. Spor Dalları
+Futbol
+Basketbol
+Voleybol
+Tenis
+Atletizm
+Yüzme
+Hentbol
+Ragbi
+Amerikan Futbolu
+Kriket
+Jimnastik
+Güreş
+Boks
+Dövüş Sporları
+Taekwondo
+Judo
+Golf
+Bisiklet
+Kayak
+Snowboard
+Okçuluk
+Kürek
+Sörf
+Golf
+Formula 1
+E-Spor
+2. Takımlar
+Futbol Takımları
+Basketbol Takımları
+Voleybol Takımları
+Millî Takımlar
+Kulüpler
+Akademi Takımları
+Kadın Takımları
+Erkek Takımları
+Yerel Takımlar
+Ulusal Takımlar
+3. Oyuncu Bilgileri
+Ad
+Soyad
+Yaş
+Cinsiyet
+Doğum Tarihi
+Boy
+Kilo
+Milliyet
+Takım
+Pozisyon
+Oyuncu Numarası
+Yetenekler
+Kariyer Başlangıcı
+Öne Çıkan Başarılar
+Sözleşme Süresi
+Transfer Ücreti
+Performans Verileri
+Yaralanmalar
+4. Performans Verileri
+Gol Sayısı
+Asist Sayısı
+İstatistikler
+Yüzde (Şut Yüzdesi, Pas Yüzdesi vb.)
+Maç Başına Gol
+Maç Başına Asist
+Toplam Maç Sayısı
+Toplam Şut
+Toplam Pas
+Fauller
+Sarı Kartlar
+Kırmızı Kartlar
+Toplam Yükseklik (Atletizm)
+Derece (Atletizm)
+Süre (Yüzme)
+Set / Maç Kazanma Oranı (Tenis)
+5. Torneo ve Turnuvalar
+Dünya Kupası
+Olimpiyat Oyunları
+UEFA Şampiyonlar Ligi
+Avrupa Futbol Şampiyonası (EURO)
+Copa América
+NBA Şampiyonası
+Wimbledon
+Roland Garros
+Super Bowl
+Formula 1 Yarışları
+Dünya Basketbol Şampiyonası
+Süper Lig
+Premier League
+La Liga
+Bundesliga
+Serie A
+Ligue 1
+MLS
+NCAA Turnuvaları
+6. Ekipman ve Tesisler
+Top
+Ayakkabı
+Forma
+Ekipman
+Spor Salonu
+Stadyum
+Arenalar
+Spor Kompleksi
+Kapalı Alan
+Açık Alan
+Antrenman Sahası
+Spor Salonu Ekipmanları
+7. Sporcu Sağlığı ve Yaralanmalar
+Yaralanma Türleri
+Rehabilitasyon
+Fiziksel Terapi
+Sakatlanma
+Kırık
+Burkulma
+Kas Yırtılması
+Omuz Yaralanması
+Diz Yaralanması
+Konjenital Sakıncalar
+Yorgunluk
+Zihinsel Sağlık
+Performans Artışı
+İlaç Kullanımı (Anti-inflamatuar vb.)
+Antrenman Hedefleri
+Erken Dönüş (İyileşme Süreci)
+8. Antrenman ve Eğitim
+Antrenman Programı
+Kas Gelişimi
+Endurance (Dayanıklılık)
+Kuvvet Antrenmanı
+Hız Antrenmanı
+Esneklik
+Kondisyon
+Kardiyo
+Yoga
+Pilates
+Beslenme
+Sporcu Diyeti
+Takım Çalışması
+Strateji Çalışmaları
+9. Spor Yönetimi ve Organizasyon
+Kulüp Yönetimi
+Sözleşmeler
+Transfer Pazarları
+Sponsorluk
+Reklam Anlaşmaları
+Yönetim Kurulu
+Takım Koçları
+Teknik Direktör
+Yardımcı Antrenör
+Sportif Direktör
+Ödeme Planları
+Takım Organizasyonu
+Sponsorluk Anlaşmaları
+10. İstatistikler ve Skorlar
+Maç Skoru
+Toplam Puan
+Galibiyet / Mağlubiyet
+Şampiyon
+Final
+Yarı Final
+Çeyrek Final
+Playoff
+Derece
+Set Skoru (Tenis)
+Takım Puan Durumu
+Sezon İstatistikleri
+Maç Sonuçları
+Puan Durumu
+Rekorlar
+11. Sosyal ve Kültürel Etkiler
+Spor ve Toplum
+Sporcu İdolleri
+Spor ve Medya
+Spor Yayınları
+Sosyal Medya
+Taraftar Kültürü
+Sponsorluk Anlaşmaları
+Sporcu Markası
+Taraftar Etkinlikleri
+Ulusal Gurur
+12. E-Spor
+E-Spor Takımları
+E-Spor Turnuvaları
+E-Spor Oyuncuları
+Oyunlar
+Turnuva Skorları
+Yayıncılar
+E-Spor Yayın Platformları (Twitch, YouTube)
+E-Spor Kategorileri (MOBA, FPS, RTS vb.)
+E-Spor Takım İstatistikleri
