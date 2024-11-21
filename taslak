@@ -1,0 +1,92 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNMjg9NvPsQvIomvQIJI1kh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ismail-erdogdu/hu-bby-261-2024/blob/main/taslak\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "source": [
+        "!pip install elementpath #Install the module first\n",
+        "import xml.etree.ElementTree as ET # then try to import the module\n",
+        "tree = ET.parse('/content/AEKkaynakları')\n",
+        "root = tree.getroot()\n",
+        "print(root)"
+      ],
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "QzNP14aNxSCg",
+        "outputId": "ed748709-7297-4203-c46f-c9f481b9a412"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Requirement already satisfied: elementpath in /usr/local/lib/python3.10/dist-packages (4.6.0)\n",
+            "<Element 'resources' at 0x7e21c2a77290>\n"
+          ]
+        }
+      ]
+    },
+    {
+      "source": [
+        "import xml.etree.ElementTree as ET\n",
+        "\n",
+        "def list_resources(xml_file):\n",
+        "  \"\"\"XML dosyasından kaynakları listeler.\"\"\"\n",
+        "  tree = ET.parse(xml_file)\n",
+        "  root = tree.getroot()\n",
+        "  for resource in root.findall('resource'):\n",
+        "    title = resource.find('title').text\n",
+        "    description = resource.find('description').text\n",
+        "    keywords = resource.find('keywords').text\n",
+        "    url = resource.find('url').text\n",
+        "    print(f\"Başlık: {title}\\nAçıklama: {description}\\nAnahtar Kelimeler: {keywords}\\nURL: {url}\\n\")\n",
+        "\n",
+        "def search_resources(xml_file, keyword):\n",
+        "  \"\"\"XML dosyasında belirli bir anahtar kelimeyi arar.\"\"\"\n",
+        "  tree = ET.parse(xml_file)\n",
+        "  root = tree.getroot()\n",
+        "  for resource in root.findall('resource'):\n",
+        "    keywords = resource.find('keywords').text\n",
+        "    if keyword in keywords:\n",
+        "      title = resource.find('title').text\n",
+        "      description = resource.find('description').text\n",
+        "      url = resource.find('url').text\n",
+        "      print(f\"Başlık: {title}\\nAçıklama: {description}\\nURL: {url}\\n\")"
+      ],
+      "cell_type": "code",
+      "metadata": {
+        "id": "TJCehZoKby8G"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
